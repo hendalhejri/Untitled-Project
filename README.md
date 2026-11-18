@@ -30,7 +30,7 @@ A simple iOS app that helps you keep your plants alive. Add your plants with the
 ## How to Run
 
 1. Download or clone this repository.
-2. Open `My Plants.xcodeproj` in Xcode.
+2. 2. Open `Untitled Project.xcodeproj` in Xcode.
 3. Select an iPhone simulator or a connected device.
 4. Press **Run** (⌘R).
 5. Add your first plant and allow notifications when prompted.
